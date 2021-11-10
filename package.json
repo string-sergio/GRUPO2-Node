@@ -1,0 +1,21 @@
+{
+  "name": "grupo2-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/string-sergio/GRUPO2-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/string-sergio/GRUPO2-Node/issues"
+  },
+  "homepage": "https://github.com/string-sergio/GRUPO2-Node#readme"
+}
