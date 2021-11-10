@@ -2,7 +2,7 @@
 
 console.log("loaded ")
 
-const carasDado: number = Math.floor(100 * Math.random()) + 1
+const carasDado: number = Math.floor(100 * Math.random()) + 1;
 
 const dado: number = Math.floor(carasDado * Math.random()) + 1;
 
