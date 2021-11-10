@@ -6,7 +6,7 @@ const carasDado: number = Math.floor(100 * Math.random()) + 1;
 
 const dado: number = Math.floor(carasDado * Math.random()) + 1;
 
-console.log(dado)
+console.log("die: " + dado);
 
 //PAGINA 37
 
